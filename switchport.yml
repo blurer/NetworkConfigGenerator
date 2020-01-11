@@ -1,0 +1,9 @@
+interface_dict = {
+    "interface": "GigabitEthernet0/1"
+    "description": "Server Port",
+    "vlan": 10,
+    "uplink": False
+    "interface": "GigabitEthernet0/2"
+}
+
+

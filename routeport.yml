@@ -1,0 +1,5 @@
+interface {{ interface.name }}
+  description {{ interface.description}
+  ip address {{ interface.address }} {{ interface.subnetmask }}
+  no shutdown
+
